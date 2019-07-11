@@ -1,0 +1,39 @@
+{
+  "locales": {
+    "en": "English",
+    "ro": "Romanian",
+    "nl": "Dutch"
+  },
+  "links": [
+    {
+      "en": "http://example.com/en/france-and-good-cheese",
+      "ro": "http://example.com/ro/franta-si-branza-buna",
+      "nl": "http://example.com/nl/frankrijk-en-goed-kaas"
+    },
+    {
+      "en": "http://example.com/en/italy-and-fast-cars",
+      "ro": "http://example.com/ro/italia-si-masinile-rapide",
+      "nl": "http://example.com/nl/italie-en-snelle-autos"
+    },
+    {
+      "en": "http://example.com/en/belgium-and-tomorrowland",
+      "ro": "http://example.com/ro/belgia-si-tomorrowland",
+      "nl": "http://example.com/nl/belgie-en-tomorrowland"
+    },
+    {
+      "en": "http://example.com/en/germany-and-good-sausages",
+      "ro": "http://example.com/ro/germania-si-carnatii-buni",
+      "nl": "http://example.com/nl/duitsland-en-goede-worsten"
+    },
+    {
+      "en": "http://example.com/en/romania-and-nature",
+      "ro": "http://example.com/ro/romania-si-natura",
+      "nl": "http://example.com/nl/roemenie-en-natuur"
+    },
+    {
+      "en": "http://example.com/en/netherlands-and-ships",
+      "ro": "http://example.com/ro/olanda-si-corabiile",
+      "nl": "http://example.com/nl/nederland-en-schepen"
+    }
+  ]
+}
