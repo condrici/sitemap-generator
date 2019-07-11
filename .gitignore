@@ -1,0 +1,7 @@
+#eClipse Text Editor
+.buildpath
+.project
+.settings/*
+
+#PHPStorm Text Editor
+.idea/*
