@@ -13,7 +13,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12 text-center title-wrapper">
-            <h1>musement sitemap</h1>
+            <h1>Sitemap Generator</h1>
         </div>
         <!-- Generate Sitemap Buttons -->
         <div class="col text-center">
