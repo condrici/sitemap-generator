@@ -23,4 +23,4 @@ Sitemap Generator is a simple tool for generating xml sitemaps.
 
 ## Customization
 
-Right now the data used to generate the xml sitemap chan be changed by modifying Sitemap/data.json, which contains the dummy json data. This workflow will be slightly changed soon.
+Right now the data used to generate the xml sitemap chan be changed by modifying Sitemap/data.json, which contains the dummy json data. The tool could potentilly be updated to use an external data source like an external api or a local file, as opposed to using a static file on the server.
