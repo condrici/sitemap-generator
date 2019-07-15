@@ -19,8 +19,10 @@ Sitemap Generator is a simple tool for generating xml sitemaps.
 ## Installation
 
 1. Clone the git repository
-2. Open the application in your local browser
-3. Click on any of the buttons to generate the sitemap
+2. Install dependencies (npm install)
+3. Bundle assets (npm run build)
+4. Open the application in your local browser
+5. Click on any of the buttons to generate the sitemap
 
 ## Customization
 
