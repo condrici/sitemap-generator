@@ -5,3 +5,6 @@
 
 #PHPStorm Text Editor
 .idea/*
+
+#Package Managers
+node_modules
