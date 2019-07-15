@@ -1,7 +1,10 @@
-#eClipse Text Editor
+≠#eClipse Text Editor
 .buildpath
 .project
 .settings/*
 
 #PHPStorm Text Editor
 .idea/*
+
+#Package Managers
+node_modules

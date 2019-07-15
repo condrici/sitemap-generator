@@ -1,0 +1,29 @@
+{
+  "name": "sitemap-generator",
+  "version": "1.0.0",
+  "description": "Simple Sitemap Generator",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "webpack": "^4.35.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/condrici/sitemap-generator.git"
+  },
+  "keywords": [
+    "Sitemap",
+    "Generator"
+  ],
+  "author": "Alexandru Condrici",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/condrici/sitemap-generator/issues"
+  },
+  "homepage": "https://github.com/condrici/sitemap-generator#readme"
+}
