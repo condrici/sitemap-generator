@@ -1,6 +1,6 @@
 # Sitemap Generator
 
-Tool for generating multi-lingual sitemaps.
+Version 1.0.0
 
 ## Description
 Sitemap Generator is a simple tool for generating xml sitemaps.
