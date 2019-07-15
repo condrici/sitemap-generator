@@ -14,6 +14,7 @@ Sitemap Generator is a simple tool for generating xml sitemaps.
 ## Prerequisites
 * Apache with mod_rewrite activated
 * PHP 5.6+ 
+* nodejs, npm
 
 ## Installation
 
