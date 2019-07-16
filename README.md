@@ -14,12 +14,12 @@ Sitemap Generator is a simple tool for generating xml sitemaps.
 ## Prerequisites
 * Apache with mod_rewrite activated
 * PHP 5.6+ 
-* nodejs, npm
+* composer, nodejs, npm
 
 ## Installation
 
 1. Clone the git repository
-2. Install dependencies (npm install)
+2. Install dependencies (npm install, composer install)
 3. Bundle assets (npm run build)
 4. Open the application in your local browser
 5. Click on any of the buttons to generate the sitemap
