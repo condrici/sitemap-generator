@@ -1,7 +1,6 @@
 <?php
 
-require_once('SampleData.php');
-require_once('SitemapGenerator.php');
+namespace Sitemap;
 
 class Sitemap {
 

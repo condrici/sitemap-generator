@@ -1,8 +1,10 @@
 <?php
 
+namespace Sitemap;
+
 trait SampleData {
 
-    private static $file = __DIR__ . '/' . 'data.json';
+    private static $file = __DIR__ . DIRECTORY_SEPARATOR . 'data.json';
 
     /**
      * Sample data to be used for generating the dummy sitemaps

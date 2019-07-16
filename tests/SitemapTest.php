@@ -3,7 +3,7 @@
 namespace TDD\Test;
 
 use PHPUnit\Framework\TestCase;
-use Sitemap;
+use Sitemap\Sitemap;
 
 class SitemapTest extends TestCase {
 

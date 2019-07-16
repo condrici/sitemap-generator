@@ -1,11 +1,10 @@
 {
-    "autoload": {
-        "classmap": [
-            "Sitemap/"
-        ]
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^8"
-    }
-
+	"autoload" : {
+		"psr-4": {
+			"Sitemap\\": "Sitemap/"
+		}
+	},
+	"require-dev" : {
+		"phpunit/phpunit" : "^8"
+	}
 }

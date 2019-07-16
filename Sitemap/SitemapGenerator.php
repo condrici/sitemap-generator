@@ -1,5 +1,7 @@
 <?php
 
+namespace Sitemap;
+
 trait SitemapGenerator {
 
     private static $priority = 1;
