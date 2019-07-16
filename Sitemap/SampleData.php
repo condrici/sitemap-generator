@@ -10,7 +10,7 @@ trait SampleData {
      * @param bool $decode
      * @return json|array
      */
-    public static function data($decode = true) {
+    private static function data($decode = true) {
 
         $data = file_get_contents(self::$file);
 

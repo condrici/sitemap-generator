@@ -10,9 +10,8 @@ trait SitemapGenerator {
      * If path is not provided, dummy sample will be used
      *
      * @param null $locale
-     * @param null $path
      */
-    public static function generate($locale=null, $path = null) {
+    public static function generate($locale=null) {
 
         !empty($locale) ? self::$locale = $locale : null;
 
@@ -49,6 +48,7 @@ trait SitemapGenerator {
 
         $sample_data    = self::data();
         $sample_locales = self::data()['locales'];
+        $output = '';
 
         //Set locale to default if user input is invalid
         if (!array_key_exists(self::$locale, $sample_locales)) {
